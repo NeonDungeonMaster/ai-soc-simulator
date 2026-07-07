@@ -21,7 +21,4 @@ A React-based web application designed to simulate a Security Operations Center 
 *   **Architecture:** Component-based UI with simulated async API calls.
 
 ## 🚀 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/martsynovskimihal-sudo/ai-soc-simulator.git](https://github.com/martsynovskimihal-sudo/ai-soc-simulator.git)
+git clone https://github.com/NeonDungeonMaster/ai-soc-simulator.git
